@@ -157,14 +157,14 @@ body {text-align:center;margin-top:30px;}
                                     margin-bottom:1px;
                                     padding:5px 5px 4px 50px;                
                                     border:1px solid #fff;                   
-                                    background:#f6f6f6 url(../images/i.nuseek.com/images/Themes/T101/bullets/0007.gif) no-repeat 25px 50%;
-                                    background:#fafad9 url('../images/i.nuseek.com/images/Themes/T101/bullets/0006.gif') no-repeat 25px 50%;
+                                    background:#f6f6f6 url(./img/0007.gif) no-repeat 25px 50%;
+                                    background:#fafad9 url('./img/0006.gif') no-repeat 25px 50%;
                                     color:#476ec7;
                                     font:bold 14px arial;
                                     text-decoration:none;}        
         .primary_links li:first-child a {}                                                                
-        .primary_links li a:hover {background:#fff url(../images/i.nuseek.com/images/Themes/T101/bullets/0007.gif) no-repeat 30px 50%;
-                                   background:#fbfbf5 url('../images/i.nuseek.com/images/Themes/T101/bullets/0006.gif') no-repeat 30px 50%;
+        .primary_links li a:hover {background:#fff url(./img/0007.gif) no-repeat 30px 50%;
+                                   background:#fbfbf5 url('./img/0006.gif') no-repeat 30px 50%;
                                    color:#c03625;}
           
         
@@ -203,7 +203,7 @@ margin-bottom:50px;
 .wrc li
     {
 	margin:0 0 15px 0;
-    padding-left:25px;background:transparent url('../images/i.nuseek.com/images/Themes/T101/bullets/0006.gif') no-repeat 0 3px; 
+    padding-left:25px;background:transparent url('./img/0006.gif') no-repeat 0 3px; 
 	}
 	
 .title {
@@ -319,8 +319,8 @@ margin-bottom:50px;
         .search_box .sb_text {width:255px;height:18px;border:1px inset #999;padding-left:3px;color:#000;font-size:16px;}
         .search_box .sb_button {width:60px;width:60px;
                                 height:22px;height:22px;
-                                background:transparent url(../images/i.nuseek.com/images/Themes/T101/buttons/0007.gif) no-repeat;
-                                background:transparent url('../images/i.nuseek.com/images/Themes/T101/buttons/0006.gif') no-repeat;}
+                                background:transparent url(./img/i.nuseek.com/images/Themes/T101/buttons/0007.gif) no-repeat;
+                                background:transparent url('./img/i.nuseek.com/images/Themes/T101/buttons/0006.gif') no-repeat;}
 
 
 
@@ -346,7 +346,7 @@ margin-bottom:50px;
                                                  
 /* Status Feedback */
 .status p {margin:15px;padding:5px 5px 5px 30px;border:1px solid #84aec1;border-width:1px 0;
-           background:#dff4ff url('../images/i.nuseek.com/images/Misc/lib/icon_info_1.gif') no-repeat 8px center;
+           background:#dff4ff url('./img/i.nuseek.com/images/Misc/lib/icon_info_1.gif') no-repeat 8px center;
            font-size:.9em;font-weight:700;color:#000;}
 
 
