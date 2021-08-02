@@ -94,11 +94,12 @@ body {text-align:center;margin-top:30px;}
 #container {width:754px;margin:15px auto;text-align:left;
             background:#fff;}
 
-  .custom_2 {}
+/*  .custom_2 {}*/	
 
   .header {height:32px;line-height:32px;background:#272226;}
 
-  #content {}
+#content {width:754px;margin:15px auto;text-align:left;
+    background:#fff;}
 
     .top_bar {height:30px;line-height:30px;margin:1px 0;background:#dfe1d4;}
     
@@ -112,7 +113,7 @@ body {text-align:center;margin-top:30px;}
             
   #footer {margin-top:1px;}
   
-  .custom_1 {}
+  /*.custom_1 {}*/
 
 
 
@@ -130,7 +131,7 @@ body {text-align:center;margin-top:30px;}
         .header h1 a,
         .header h1 a:link,
         .header h1 a:visited {color:#fff;text-decoration:none;}
-        .header h1 b {}
+        /*.header h1 b {} */
         
 
 /* Lander > Google Label */
@@ -162,7 +163,7 @@ body {text-align:center;margin-top:30px;}
                                     color:#476ec7;
                                     font:bold 14px arial;
                                     text-decoration:none;}        
-        .primary_links li:first-child a {}                                                                
+        /*.primary_links li:first-child a {}                                                                 */
         .primary_links li a:hover {background:#fff url(./img/0007.gif) no-repeat 30px 50%;
                                    background:#fbfbf5 url('./img/0006.gif') no-repeat 30px 50%;
                                    color:#c03625;}
@@ -297,7 +298,7 @@ margin-bottom:50px;
 
 
 /* Result > Result Links (right column) */
-.result_links {}
+/*.result_links {} */
 
     .result_links_Hdr {margin:25px 15px 0 0;padding:3px 10px;background:#1b5709;}
     .result_links_Hdr span,
